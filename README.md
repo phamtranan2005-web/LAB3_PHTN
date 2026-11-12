@@ -3,3 +3,6 @@ Lab 3: Hệ thống phát hiện té ngã dùng ESP32 và FreeRTOS
 
 ## Link mô phỏng Wokwi
 https://wokwi.com/projects/478056743733258241
+
+## Link web 
+http://127.0.0.1:5500/
